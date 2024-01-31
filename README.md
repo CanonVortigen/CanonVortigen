@@ -70,6 +70,7 @@ Descrição   | Instituição   | Ano | Tipo
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<br><br>    
 <div align="center">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>

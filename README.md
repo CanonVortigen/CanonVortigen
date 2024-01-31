@@ -71,14 +71,6 @@ Descrição   | Instituição   | Ano | Tipo
 <div>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">VIEW CURRICULUM ALESSANDRO</a>
 </div>
-<div class="container">
-  <h1>Pure Css Button Hover effect</h1>
-  
-  <a href="#" class="button">Hover me</a>
-  
-<!--  optional  -->
-  <span>Made by <a href="http://alticreation.com/en">alticreation.com</a></span>
-</div>  
 
 ## ⚙️ Estatísticas GitHub
 

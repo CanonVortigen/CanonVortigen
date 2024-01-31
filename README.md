@@ -68,7 +68,7 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📝 Acesse o meu currículo
 <div>
-  <a href="https://canonvortigen.github.io/index.html" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Resume Alessandro</a>
+  <button><a href="https://canonvortigen.github.io/index.html" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Resume Alessandro</a><button>
 </div>
 
 ## ⚙️ Estatísticas GitHub

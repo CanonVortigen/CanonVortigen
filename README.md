@@ -68,7 +68,12 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📝 Acesse o meu currículo
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary" style="text-decoration: none;">CURRICULUM ALESSANDRO</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">CURRICULUM ALESSANDRO</a>
+</div>
+<div class="jumbotron">
+  <h1>Hello, world!</h1>
+  <p>...</p>
+  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
 </div>
 
 ## ⚙️ Estatísticas GitHub

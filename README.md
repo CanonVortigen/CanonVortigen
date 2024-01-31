@@ -66,6 +66,10 @@ Descrição   | Instituição   | Ano | Tipo
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+  <a href="" type="button" class="btn btn-outline-success">Success</a>
+</div>
+
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">

@@ -12,7 +12,7 @@
     and Django. I also have knowledge in JavaScript, Html, BootStrap, Css, Mysql, Postgres. I am certified by Cisco in CCNA1, CCNA2, CCNA3, CyberSecurity, CyberOps among others.
   </p>
 </div>
-
+<hr>
 <div style="display: inline_block">  
   <h3> 👨🏽‍💻🚀 MY TECHNOLOGIES </h3>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -31,7 +31,7 @@
   <img align="center" alt="NGINX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img align="center" alt="POSTGRES" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
-</div><br>
+</div><br><hr>
 
 <h3> 🏆 🎇 AWARDS, COURSES AND CERTIFICATIONS </h3>
 

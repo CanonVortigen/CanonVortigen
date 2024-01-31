@@ -1,5 +1,5 @@
 <div align="center">
-  <h1> 🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟 </h1>  <br><br>  
+  <h1> 🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟 </h1>  <br>  
   <span> Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯 </span>
 </div>
 

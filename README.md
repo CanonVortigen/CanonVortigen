@@ -1,6 +1,6 @@
 <div align="center">
-  🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟 <br><br>
-   <span> Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯 </span>
+  <h1> 🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟 </h1>  <br><br>  
+  <span> Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯 </span>
 </div>
 
 <div align="justify">
@@ -76,10 +76,10 @@ Description   | Institution   | Year | Type
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br><br> 
-    
-<h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>
+<br><br>     
+
 <div align="center">  
+  <h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>
 

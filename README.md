@@ -1,5 +1,5 @@
 <div align="left">
-     <title>Date and Time</title>
+      <title>Date and Time</title>
         <SCRIPT LANGUAGE="JAVASCRIPT" >
             var now = new Date();
             var mName = now.getMonth() +1 ;
@@ -28,8 +28,10 @@
             if(yearNr < 2000) {Year = 1900 + yearNr;}
             else {Year = yearNr;}
             var todaysDate =(" " + Day + ", " + dayNr + " de " + Month + " de " + Year);
-            document.write('  '+todaysDate);        
-            <SPAN ID="Clock">00:00:00</SPAN> 
+            document.write('  '+todaysDate);
+        </SCRIPT></span> 
+        <SPAN ID="Clock">00:00:00</SPAN>        
+        <SCRIPT LANGUAGE="JavaScript">
             var Elem = document.getElementById("Clock");
             function Horario(){ 
             var Hoje = new Date(); 
@@ -48,7 +50,7 @@
             Elem.innerHTML = Horas+":"+Minutos+":"+Segundos; 
             } 
             window.setInterval("Horario()",1000);
-        </SCRIPT>                               
+        </SCRIPT>                                            
 </div>
           
 ### Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋
@@ -57,10 +59,10 @@
 
 <div align="justify">
   <p>
-    I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" and the promise to always seek    
-    perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the point where we leave everything we are doing and say,
-    "Oh, yes. I want it for myself." I'm a developer, passionate about technology, with very broad knowledge of Python and Django. I also have knowledge in JavaScript, Html, BootStrap, Css, Mysql, 
-    Postgres. I am certified by Cisco in CCNA1, CCNA2, CCNA3, CyberSecurity, CyberOps among others.
+    I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" 
+    and the promise to always seek perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the 
+    point where we leave everything we are doing and say, "Oh, yes. I want it for myself." I'm a developer, passionate about technology, with very broad knowledge of Python 
+    and Django. I also have knowledge in JavaScript, Html, BootStrap, Css, Mysql, Postgres. I am certified by Cisco in CCNA1, CCNA2, CCNA3, CyberSecurity, CyberOps among others.
   </p>
 </div>
 

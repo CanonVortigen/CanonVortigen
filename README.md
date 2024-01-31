@@ -1,7 +1,7 @@
 <div align="center">
   🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟
 </div>
-
+<br>
 <div align="justify">
   Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯
 </div>

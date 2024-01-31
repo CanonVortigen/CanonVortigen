@@ -3,9 +3,8 @@
    <span> Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯 </span>
 </div>
 
-## 🔓 💻 A little bit about me:
-
 <div align="justify">
+   <h2> 🔓 💻 A little bit about me: </h2>
   <p>
     I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" 
     and the promise to always seek perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the 
@@ -14,9 +13,8 @@
   </p>
 </div>
 
-## 👨🏽‍💻🚀 MY TECHNOLOGIES
-  
 <div style="display: inline_block">  
+  <h2> 👨🏽‍💻🚀 MY TECHNOLOGIES </h2>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JAVASCRIPT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -55,7 +53,7 @@ Description   | Institution   | Year | Type
 🏅 Ingles | Wizard | 2016 | Certification
 
 <div> 
-  <h4> 🌐 MY SOCIAL MEDIA </h4>
+  <h2> 🌐 MY SOCIAL MEDIA </h2>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
   target="_blank"></a>
   <a href="https://www.instagram.com/canonpendragonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -66,21 +64,21 @@ Description   | Institution   | Year | Type
 </div>
 
 <div>
-  <h4> 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW </h4>
+  <h2> 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW </h2>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
 
 <div>
-  <h4> ⚙️ GITHUB STATS </h4>
+  <h2> ⚙️ GITHUB STATS </h2>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br><br> 
     
-<h4> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h4>
+<h2> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h2>
 <div align="center">  
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>

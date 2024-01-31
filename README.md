@@ -67,7 +67,7 @@ Descrição   | Instituição   | Ano | Tipo
 </div>
 
 <div align="center">
-  <a href="" type="button" class="btn btn-outline-success">Success</a>
+  <a href="" type="button" class="btn btn-info">Resume Alessandro</a>
 </div>
 
 ## ⚙️ Estatísticas GitHub

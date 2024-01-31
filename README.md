@@ -1,6 +1,8 @@
-### Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋
+<div align="justify">
+  ### Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯
+</div>
 
-## 🐒 💻 A little bit about me:
+## 🔓 💻 A little bit about me:
 
 <div align="justify">
   <p>
@@ -32,7 +34,7 @@
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
 </div><br>
 
-## 🏆 Prêmios, Cursos e Certificações
+## 🏆 🎇 Prêmios, Cursos e Certificações
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------

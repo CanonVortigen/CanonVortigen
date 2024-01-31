@@ -88,8 +88,10 @@ Description   | Institution   | Year | Type
 <div align="center">
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>
-
-## 👀👀👀 WELCOME TO MY PROFILE, COME BACK ALWAYS. 🤝🤝🤝
+<hr>
+<div align="center">
+   👀👀👀 WELCOME TO MY PROFILE, COME BACK ALWAYS. 🤝🤝🤝
+</div>
 
 
 

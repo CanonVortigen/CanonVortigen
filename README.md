@@ -69,13 +69,16 @@ Descrição   | Instituição   | Ano | Tipo
 ## 📝 Acesse o meu currículo
 
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">CURRICULUM ALESSANDRO</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">VIEW CURRICULUM ALESSANDRO</a>
 </div>
-<a href="#">Inbox <span class="badge">42</span></a>
-
-<button class="btn btn-primary" type="button">
-  Messages <span class="badge">4</span>
-</button>
+<div class="container">
+  <h1>Pure Css Button Hover effect</h1>
+  
+  <a href="#" class="button">Hover me</a>
+  
+<!--  optional  -->
+  <span>Made by <a href="http://alticreation.com/en">alticreation.com</a></span>
+</div>  
 
 ## ⚙️ Estatísticas GitHub
 

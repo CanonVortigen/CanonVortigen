@@ -1,7 +1,7 @@
 <div align="center">
   🌟🌟🌟 WELCOME TO MY PROFILE 🌟🌟🌟
 </div>
-<br>
+<br><hr>
 <div align="justify">
   Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯
 </div>
@@ -89,7 +89,8 @@ Description   | Institution   | Year | Type
 </div>
 
 <div align="center">
-   👀👀👀 WELCOME TO MY PROFILE, COME BACK ALWAYS. 🤝🤝🤝
+   👀👀👀 COME BACK ALWAYS. 🤝🤝🤝
+  <span><small>Alessandro de Oliveira Sebastião, know as, Canon.</small>small></span>
 </div>
 
 

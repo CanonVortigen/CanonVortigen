@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## 👨🏽‍💻🚀 MINHAS TECNOLOGIAS
+## 👨🏽‍💻🚀 MY TECHNOLOGIES
   
 <div style="display: inline_block">  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,9 +35,9 @@
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
 </div><br>
 
-## 🏆 🎇 PRÊMIOS, CURSOS E CERTIFICAÇÕES
+## 🏆 🎇 AWARDS, COURSES AND CERTIFICATIONS
 
-Descrição   | Instituição   | Ano | Tipo
+Description   | Institution   | Year | Type
 --------- | --------- | ------ | ------
 🏅 Cisco It Essentials | Cisco Networking Academy | 2021 | Certification
 🏅 CCNA1: Introduction to Networks | Cisco Networking Academy | 2021 | Certification
@@ -54,7 +54,7 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 JavaScript | Hcode | 2021 | Certification
 🏅 Ingles | Wizard | 2016 | Certification
 
-## 🌐 MINHAS REDES SOCIAIS
+## 🌐 MY SOCIAL MEDIA
   
 <div> 
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
@@ -66,7 +66,7 @@ Descrição   | Instituição   | Ano | Tipo
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📝 ACESSE O MEU CURRÍCULO CLICANDO NO BOTÃO GO
+## 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW
 
 <div>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
@@ -74,7 +74,7 @@ Descrição   | Instituição   | Ano | Tipo
   </a>
 </div>
 
-## ⚙️ ESTATÍSTICAS DO GITHUB
+## ⚙️ GITHUB STATS
 
 <div align="center">
   <a href="https://github.com/CanonVortigen">
@@ -88,6 +88,8 @@ Descrição   | Instituição   | Ano | Tipo
 <div align="center">
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>
+
+## 👀👀👀 WELCOME TO MY PROFILE, COME BACK ALWAYS. 🤝🤝🤝
 
 
 

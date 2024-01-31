@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## 👨🏽‍💻🚀 Minhas Tecnologias  
+## 👨🏽‍💻🚀 MINHAS TECNOLOGIAS
   
 <div style="display: inline_block">  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
 </div><br>
 
-## 🏆 🎇 Prêmios, Cursos e Certificações
+## 🏆 🎇 PRÊMIOS, CURSOS E CERTIFICAÇÕES
 
 Descrição   | Instituição   | Ano | Tipo
 --------- | --------- | ------ | ------
@@ -54,7 +54,7 @@ Descrição   | Instituição   | Ano | Tipo
 🏅 JavaScript | Hcode | 2021 | Certification
 🏅 Ingles | Wizard | 2016 | Certification
 
-## 🌐 Minhas Redes Sociais
+## 🌐 MINHAS REDES SOCIAIS
   
 <div> 
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
@@ -66,13 +66,15 @@ Descrição   | Instituição   | Ano | Tipo
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-## 📝 Acesse o meu currículo
+## 📝 ACESSE O MEU CURRÍCULO CLICANDO NO BOTÃO GO
 
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">VIEW CURRICULUM ALESSANDRO</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
+    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+  </a>
 </div>
 
-## ⚙️ Estatísticas GitHub
+## ⚙️ ESTATÍSTICAS DO GITHUB
 
 <div align="center">
   <a href="https://github.com/CanonVortigen">

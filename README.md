@@ -67,14 +67,15 @@ Descrição   | Instituição   | Ano | Tipo
 </div>
 
 ## 📝 Acesse o meu currículo
+
 <div>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">CURRICULUM ALESSANDRO</a>
 </div>
-<div class="jumbotron">
-  <h1>Hello, world!</h1>
-  <p>...</p>
-  <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a></p>
-</div>
+<a href="#">Inbox <span class="badge">42</span></a>
+
+<button class="btn btn-primary" type="button">
+  Messages <span class="badge">4</span>
+</button>
 
 ## ⚙️ Estatísticas GitHub
 

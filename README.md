@@ -54,9 +54,8 @@ Description   | Institution   | Year | Type
 🏅 JavaScript | Hcode | 2021 | Certification
 🏅 Ingles | Wizard | 2016 | Certification
 
-## 🌐 MY SOCIAL MEDIA
-  
 <div> 
+  <h1> 🌐 MY SOCIAL MEDIA </h1>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
   target="_blank"></a>
   <a href="https://www.instagram.com/canonpendragonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -72,7 +71,7 @@ Description   | Institution   | Year | Type
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
-<hr>
+
 <div align="center">
   <h1> ⚙️ GITHUB STATS </h1>
   <a href="https://github.com/CanonVortigen">
@@ -80,12 +79,12 @@ Description   | Institution   | Year | Type
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br><br> 
- <hr>   
+   
 <div align="center">
   <h1> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h1>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>
-<hr>
+
 <div align="center">
    👀👀👀 WELCOME TO MY PROFILE, COME BACK ALWAYS. 🤝🤝🤝
 </div>

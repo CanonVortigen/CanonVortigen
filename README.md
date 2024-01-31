@@ -66,8 +66,9 @@ Descrição   | Instituição   | Ano | Tipo
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
-  <a href="" type="button" class="btn btn-info">Resume Alessandro</a>
+## 📝 Acesse o meu currículo
+<div>
+  <a href="https://canonvortigen.github.io/index.html" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Resume Alessandro</a>
 </div>
 
 ## ⚙️ Estatísticas GitHub

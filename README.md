@@ -1,5 +1,5 @@
 <div align="justify">
-   Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯
+  ### Hi, my name is Alessandro, known as Canon, graduated in Systems Analysis and Development and Computer Engineering! 👋 💯
 </div>
 
 ## 🔓 💻 A little bit about me:

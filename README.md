@@ -33,7 +33,7 @@
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
 </div><br>
 
-## 🏆 🎇 AWARDS, COURSES AND CERTIFICATIONS
+<h3> 🏆 🎇 AWARDS, COURSES AND CERTIFICATIONS </h3>
 
 Description   | Institution   | Year | Type
 --------- | --------- | ------ | ------

@@ -69,7 +69,7 @@ Descrição   | Instituição   | Ano | Tipo
 ## 📝 Acesse o meu currículo
 
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">VIEW CURRICULUM ALESSANDRO</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary"><img src="https://img.shields.io/badge/:badgeContent">VIEW CURRICULUM ALESSANDRO</a>
 </div>
 
 ## ⚙️ Estatísticas GitHub

@@ -83,7 +83,7 @@ Descrição   | Instituição   | Ano | Tipo
 </div>
 <br><br> 
 
-## 🤘🤘🤘 NUMBER OF ACCESSES FO MY PROFILE
+## 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE
     
 <div align="center">
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>

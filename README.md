@@ -68,7 +68,8 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📝 Acesse o meu currículo
 <div>
-  <button><a href="https://canonvortigen.github.io/index.html" class="btn btn-success btn-lg active" role="button" aria-pressed="true">Resume Alessandro</a><button>
+  <a href = "[mailto:developercanon@gmail.com](https://canonvortigen.github.io/index.html)" target="_blank"><img src="https://img.shields.io/badge/Portfolio- 
+  255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
 </div>
 
 ## ⚙️ Estatísticas GitHub

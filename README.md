@@ -54,7 +54,7 @@ Description   | Institution   | Year | Type
 🏅 JavaScript | Hcode | 2021 | Certification
 🏅 Ingles | Wizard | 2016 | Certification
 
-<div align="center"> 
+<div> 
   <h1> 🌐 MY SOCIAL MEDIA </h1>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
   target="_blank"></a>
@@ -65,14 +65,14 @@ Description   | Institution   | Year | Type
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center">
+<div>
   <h1> 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW </h1>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
 
-<div align="center">
+<div>
   <h1> ⚙️ GITHUB STATS </h1>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

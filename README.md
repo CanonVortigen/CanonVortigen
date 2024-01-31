@@ -52,6 +52,7 @@ Description   | Institution   | Year | Type
 🏅 JavaScript | Hcode | 2021 | Certification
 🏅 Ingles | Wizard | 2016 | Certification
 
+<hr>
 <div> 
   <h3> 🌐 MY SOCIAL MEDIA </h3>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
@@ -62,21 +63,21 @@ Description   | Institution   | Year | Type
   target="_blank"></a> 
   <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<hr>
 <div>
   <h3> 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW </h3>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
-
+<hr>
 <div>
   <h3> ⚙️ GITHUB STATS </h3>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br><br>     
+<br><br><hr>     
 
 <div align="center">  
   <h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>

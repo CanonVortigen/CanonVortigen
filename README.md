@@ -69,8 +69,7 @@ Descrição   | Instituição   | Ano | Tipo
 ## 📝 Acesse o meu currículo
 
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary"><img src="https://img.shields.io/dub/:interval/:packageName
-">VIEW CURRICULUM ALESSANDRO</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">VIEW CURRICULUM ALESSANDRO</a>
 </div>
 
 ## ⚙️ Estatísticas GitHub

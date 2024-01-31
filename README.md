@@ -2,12 +2,12 @@
 
 ## 🐒 💻 A little bit about me:
 
-<div>
+<div align="justify">
   <p>
-    I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" and the promise to always seek     
-    perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the point where we leave everything we are doing and say, "Oh, yes. I 
-    want it for myself."
-    I'm a developer, passionate about technology, with very broad knowledge of Python and Django. I also have knowledge in JavaScript, Html, BootStrap, Css, Mysql, Postgres. I am certified by Cisco in          CCNA1, CCNA2, CCNA3, CyberSecurity, CyberOps among others.
+    I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" and the promise to always seek    
+    perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the point where we leave everything we are doing and say,
+    "Oh, yes. I want it for myself." I'm a developer, passionate about technology, with very broad knowledge of Python and Django. I also have knowledge in JavaScript, Html, BootStrap, Css, Mysql, 
+    Postgres. I am certified by Cisco in CCNA1, CCNA2, CCNA3, CyberSecurity, CyberOps among others.
   </p>
 </div>
 
@@ -60,6 +60,7 @@ Descrição   | Instituição   | Ano | Tipo
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-oliveira-canon-a9099a66" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
   target="_blank"></a> 
+  <a href = "mailto:developercanon@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ## ⚙️ Estatísticas GitHub
@@ -69,4 +70,9 @@ Descrição   | Instituição   | Ano | Tipo
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
+<div align="center">
+<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
+</div>
+![snake gif](https://github.com/CanonVortigen/CanonVortigen/blob/output/github-contribution-grid-snake.svg)
+
 

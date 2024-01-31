@@ -68,14 +68,15 @@ Description   | Institution   | Year | Type
 
 ## 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW
 
-<div>
+<div align="center">
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
 
-## ⚙️ GITHUB STATS
-
+<div align="center">
+  <h1> ⚙️ GITHUB STATS</h1>  
+</div>
 <div align="center">
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

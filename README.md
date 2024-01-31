@@ -68,15 +68,14 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📝 Acesse o meu currículo
 <div>
-  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">Curriculum Alessandro</a>
+  <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary" style="text-decoration: none;">CURRICULUM ALESSANDRO</a>
 </div>
 
 ## ⚙️ Estatísticas GitHub
 
 <div align="center">
   <a href="https://github.com/CanonVortigen">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api? 
-   username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br><br>    

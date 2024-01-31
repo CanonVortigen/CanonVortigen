@@ -74,6 +74,6 @@ Descrição   | Instituição   | Ano | Tipo
 <div align="center">
 <p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>
-![snake gif](https://github.com/CanonVortigen/CanonVortigen/blob/output/github-contribution-grid-snake.svg)
+
 
 

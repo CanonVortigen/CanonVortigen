@@ -14,7 +14,7 @@
   </p>
 </div>
 
-## 👨🏽‍💻🚀 MY TECHNOLOGIES
+## 👨🏽‍💻🚀 My Technologie
   
 <div style="display: inline_block">  
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +35,7 @@
   <img align="center" alt="SQLITE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
 </div><br>
 
-## 🏆 🎇 AWARDS, COURSES AND CERTIFICATIONS
+## 🏆 🎇 Awards, Courses and Certifications
 
 Description   | Institution   | Year | Type
 --------- | --------- | ------ | ------
@@ -55,7 +55,7 @@ Description   | Institution   | Year | Type
 🏅 Ingles | Wizard | 2016 | Certification
 
 <div> 
-  <h1> 🌐 MY SOCIAL MEDIA </h1>
+  <h1> 🌐 My Social Media </h1>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
   target="_blank"></a>
   <a href="https://www.instagram.com/canonpendragonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
@@ -66,21 +66,21 @@ Description   | Institution   | Year | Type
 </div>
 
 <div>
-  <h1> 📝 ACCESS MY RESUME BY CLICKING THE BUTTON BELOW </h1>
+  <h1> 📝 Access my Resume by clicking the button below </h1>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>
 </div>
 
 <div>
-  <h1> ⚙️ GITHUB STATS </h1>
+  <h1> ⚙️ Github Stats </h1>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <br><br> 
     
-<h1> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h1>
+<h1> 🤘🤘🤘 Amount of Access to my Profile </h1>
 <div align="center">  
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>
 </div>

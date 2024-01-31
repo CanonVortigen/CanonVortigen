@@ -68,7 +68,7 @@ Descrição   | Instituição   | Ano | Tipo
 
 ## 📝 ACESSE O MEU CURRÍCULO CLICANDO NO BOTÃO GO
 
-<div>
+<div align="center">
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
     <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   </a>

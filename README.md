@@ -67,7 +67,7 @@ Description   | Institution   | Year | Type
 <div>
   <h3> 📝 ACCESS MY RESUME </h3>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
-    <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
+    <img src="https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white">
   </a>
 </div>
 <hr>

@@ -81,8 +81,8 @@ Description   | Institution   | Year | Type
 
  <h3> 📺  LATEST VIDEOS </h3>
  <div>   
-   ✨ HOME AUTOMATION SOFTWARE - <a href="https://www.youtube.com/watch?v=1Obd5cZ0-70&t=478s" target="_blank">
-   <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/></a>  
+   <a href="https://www.youtube.com/watch?v=1Obd5cZ0-70&t=478s" target="_blank">
+   <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/>✨ HOME AUTOMATION SOFTWARE </a>  
  </div>
 
 <hr>

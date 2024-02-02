@@ -77,8 +77,12 @@ Description   | Institution   | Year | Type
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br><br><hr>     
+<br><br><hr>  
 
+ <h3> 📺  LATEST VIDEOS </h3>
+- ✨ [HOME AUTOMATION SOFTWARE](https://www.youtube.com/watch?v=1Obd5cZ0-70&t=478s)<br/>
+
+<hr>
 <div align="center">  
   <h3> 🤘🤘🤘 AMOUNT OF ACCESS TO MY PROFILE </h3>
   <p align="center"><img alingn="center" src="https://profile-counter.glitch.me/CanonVortigen/count.svg" /></p>

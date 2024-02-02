@@ -77,11 +77,13 @@ Description   | Institution   | Year | Type
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div>
-<br><br><hr>  
+<br><hr>  
 
  <h3> 📺  LATEST VIDEOS </h3>
+ <br>
+ <h4> ✨ HOME AUTOMATION SOFTWARE </h4> 
  <a href="https://www.youtube.com/watch?v=1Obd5cZ0-70&t=478s" target="_blank">
- <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/></a> - ✨ [HOME AUTOMATION SOFTWARE]
+ <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white"<br/></a>  
 
 <hr>
 <div align="center">  

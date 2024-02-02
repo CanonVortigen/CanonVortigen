@@ -4,7 +4,7 @@
 </div>
 
 <div align="justify">
-   <h3> 🔓 💻 A little bit about me: </h3>
+  <h3> 🔓 💻 A little bit about me: </h3>
   <p>
     I believe that we, as human beings, do not buy "ideas". We do not make decisions based on characteristics and benefits. We make decisions based on emotion, "feeling" 
     and the promise to always seek perfection, that is, continuous improvement. We invent when we are motivated. We make it up when we are captivated and committed to the 
@@ -67,7 +67,7 @@ Description   | Institution   | Year | Type
 <div>
   <h3> 📝 ACCESS MY RESUME </h3>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
-    <img width='200px' height='30px' src="https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white">
+    <img width='200px' height='30px' src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
   </a>
 </div>
 <hr>
@@ -75,7 +75,7 @@ Description   | Institution   | Year | Type
   <h3> ⚙️ GITHUB STATS </h3>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
 <hr>  
 

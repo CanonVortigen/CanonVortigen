@@ -67,16 +67,16 @@ Description   | Institution   | Year | Type
 <div>
   <h3> 📝 ACCESS MY RESUME </h3>
   <a href="https://canonvortigen.github.io/index.html" type="button" class="btn btn-outline-primary">
-    <img width='200px' height='30px' src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
+    <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white">
   </a>
 </div><hr>
 
-<div>
+<div align="center">
   <h3> ⚙️ GITHUB STATS </h3>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
-</div><hr>  
+</div><hr> 
 
  <h3> 📺  LATEST VIDEOS </h3>
  <div> 

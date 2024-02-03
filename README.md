@@ -75,7 +75,7 @@ Description   | Institution   | Year | Type
   <h3> ⚙️ GITHUB STATS </h3>
   <a href="https://github.com/CanonVortigen">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=CanonVortigen&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/></a>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CanonVortigen&layout=compact&langs_count=7&theme=dark"/>
 </div><hr>  
 
  <h3> 📺  LATEST VIDEOS </h3>

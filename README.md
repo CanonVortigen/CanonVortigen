@@ -57,7 +57,7 @@ Description   | Institution   | Year | Type
   <h3> 🌐 MY SOCIAL MEDIA </h3>
   <a href="https://www.youtube.com/channel/UCJU_1OmkQXrM4fExi3WJT7w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"     
   target="_blank"></a>
-  <a href="https://www.instagram.com/canonpendragonn/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
+  <a href="https://www.instagram.com/developercanon/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" 
   target="_blank"></a>
   <a href="https://www.linkedin.com/in/alessandro-oliveira-canon-a9099a66" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
   target="_blank"></a> 
